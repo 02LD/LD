@@ -1,0 +1,40 @@
+a {
+    color: #666;
+    text-decoration: none
+}
+
+a:hover {
+    color: #c81623
+}
+.header {
+    float: right;
+    height: 780px;
+    width: 100px;
+    text-align: center;
+    margin: 0 20px;
+    background-color: #fff;
+}
+.hyrz,
+.hzw,
+.yjdwb,
+.ss,
+.ll,
+.lzy {
+    width: 100px;
+    height: 122px;
+    line-height: 100px;
+    background-color: #bbb1d6;
+}
+.hzw a:hover {
+    
+    color: #4a8ac7;
+}
+.yjdwb a:hover {
+    color: #faefcf;
+}
+.ss a:hover {
+    color:#ffab53
+}
+.ll a:hover {
+    color:#ffe4e1;
+}
